@@ -1,4 +1,12 @@
 Once upon a time, there were 10 thirsty students
 and it was Friday and they were happy because they got doughnuts.
 and it was Friday.
+<<<<<<< HEAD
+
+Bison bar does €6 whiskey sours. Just saying. 
+
+This is another sentence ... doesn't matter! 
+
+=======
 So they all went to Bad Bobs
+>>>>>>> f4a771761c9482b82593083e2bb091610bfd7164
